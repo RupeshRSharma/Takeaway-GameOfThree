@@ -1,0 +1,7 @@
+{
+  "P1S_101": {
+    "code": "P1S_101",
+    "severity": "FATAL",
+    "message": "Input should be a whole number to play with."
+  }
+}
